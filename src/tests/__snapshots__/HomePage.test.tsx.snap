@@ -1,0 +1,601 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Page tests initial snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="sc-bdfCDU kECChr"
+      >
+        <div>
+          <h1>
+            Building Brands in the 
+            <span>
+              Digital Age
+            </span>
+          </h1>
+          <p>
+            Your partner in navigating the ever-evolving landscape of digital marketing. From conceptualization to execution, we craft tailored solutions that drive results and elevate your brand to new heights.
+          </p>
+          <button>
+            Learn More
+          </button>
+        </div>
+        <div
+          class="hero-image-container"
+        >
+          <img
+            alt="Hero section image"
+            class="hero-image"
+            src="hero-section-image.png"
+          />
+          <img
+            alt="Project image"
+            class="project-image"
+            src="projects.png"
+          />
+        </div>
+      </section>
+      <div
+        class="sc-gsTDqH imMVaM"
+      >
+        <div>
+          <p>
+            Powering next-gen companies
+          </p>
+          <img
+            alt="customers logos"
+            src="customer-logos.png"
+          />
+        </div>
+      </div>
+      <section
+        class="sc-dlfmHC eDwHNo"
+      >
+        <div>
+          <h2>
+            Explore Our Services
+          </h2>
+          <h3>
+            We are self-service data analytics software that lets you create visually.
+          </h3>
+          <div
+            class="card-container"
+          >
+            <div
+              class="card"
+            >
+              <img
+                alt="App Development"
+                src="app-development.png"
+              />
+              <h4>
+                App Development
+              </h4>
+              <p>
+                ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+              </p>
+            </div>
+            <div
+              class="card"
+            >
+              <img
+                alt="Web Designing"
+                src="we-designing.png"
+              />
+              <h4>
+                Web Designing
+              </h4>
+              <p>
+                ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+              </p>
+            </div>
+            <div
+              class="card"
+            >
+              <img
+                alt="Graphic Designing"
+                src="graphic-designing.png"
+              />
+              <h4>
+                Graphic Designing
+              </h4>
+              <p>
+                ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+              </p>
+            </div>
+            <div
+              class="card"
+            >
+              <img
+                alt="Digital Marketing"
+                src="digital-marketing.png"
+              />
+              <h4>
+                Digital Marketing
+              </h4>
+              <p>
+                ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+              </p>
+            </div>
+          </div>
+          <div
+            class="btn"
+          >
+            <button>
+              Learn More
+            </button>
+          </div>
+        </div>
+      </section>
+      <section
+        class="sc-hKgKIp kbguKQ"
+      >
+        <div
+          class="image-container"
+        >
+          <span
+            class="image-text"
+          >
+            “
+          </span>
+          <img
+            alt="Testimonial Image"
+            class="hero-image"
+            src="testimonial-image.png"
+          />
+        </div>
+        <div
+          class="container"
+        >
+          <p
+            class="client-message"
+          >
+            “The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be.”
+          </p>
+          <p
+            class="about-client"
+          >
+            <span>
+              David Calathan-
+            </span>
+             Director of Design Operations, New York
+          </p>
+          <div
+            class="next-previous-icons"
+          >
+            <img
+              alt="Previous image"
+              src="previous.png"
+            />
+            <img
+              alt="Next image"
+              src="next.png"
+            />
+          </div>
+        </div>
+      </section>
+      <section
+        class="sc-eCstZk kdTtew"
+      >
+        <div
+          class="main-container"
+        >
+          <h6>
+            Our Blogs
+          </h6>
+          <div
+            class="card-container"
+          >
+            <div>
+              <img
+                alt="blog 1 image"
+                class="image-style"
+                src="blog1.png"
+              />
+              <div
+                class="card-text"
+              >
+                <p
+                  style="font-size: 24px; font-weight: 500; color: rgb(15, 0, 73); margin-bottom: 20px;"
+                >
+                  Realtime analytics
+                </p>
+                <p>
+                  “The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be. “The results have been incredible.
+                </p>
+                <img
+                  alt=" next image"
+                  class="next-image-style"
+                  src="next.png"
+                />
+              </div>
+            </div>
+            <div>
+              <img
+                alt="blog 1 image"
+                class="image-style"
+                src="blog2.png"
+              />
+              <div
+                class="card-text"
+              >
+                <p
+                  style="font-size: 24px; font-weight: 500; color: rgb(15, 0, 73); margin-bottom: 20px;"
+                >
+                  Realtime analytics
+                </p>
+                <p>
+                  “The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be. “The results have been incredible.
+                </p>
+                <img
+                  alt=" next image"
+                  class="next-image-style"
+                  src="next.png"
+                />
+              </div>
+            </div>
+            <div>
+              <img
+                alt="blog 1 image"
+                class="image-style"
+                src="blog3.png"
+              />
+              <div
+                class="card-text"
+              >
+                <p
+                  style="font-size: 24px; font-weight: 500; color: rgb(15, 0, 73); margin-bottom: 20px;"
+                >
+                  Realtime analytics
+                </p>
+                <p>
+                  “The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be. “The results have been incredible.
+                </p>
+                <img
+                  alt=" next image"
+                  class="next-image-style"
+                  src="next.png"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="btn"
+          >
+            <button>
+              View all posts
+            </button>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="sc-bdfCDU kECChr"
+    >
+      <div>
+        <h1>
+          Building Brands in the 
+          <span>
+            Digital Age
+          </span>
+        </h1>
+        <p>
+          Your partner in navigating the ever-evolving landscape of digital marketing. From conceptualization to execution, we craft tailored solutions that drive results and elevate your brand to new heights.
+        </p>
+        <button>
+          Learn More
+        </button>
+      </div>
+      <div
+        class="hero-image-container"
+      >
+        <img
+          alt="Hero section image"
+          class="hero-image"
+          src="hero-section-image.png"
+        />
+        <img
+          alt="Project image"
+          class="project-image"
+          src="projects.png"
+        />
+      </div>
+    </section>
+    <div
+      class="sc-gsTDqH imMVaM"
+    >
+      <div>
+        <p>
+          Powering next-gen companies
+        </p>
+        <img
+          alt="customers logos"
+          src="customer-logos.png"
+        />
+      </div>
+    </div>
+    <section
+      class="sc-dlfmHC eDwHNo"
+    >
+      <div>
+        <h2>
+          Explore Our Services
+        </h2>
+        <h3>
+          We are self-service data analytics software that lets you create visually.
+        </h3>
+        <div
+          class="card-container"
+        >
+          <div
+            class="card"
+          >
+            <img
+              alt="App Development"
+              src="app-development.png"
+            />
+            <h4>
+              App Development
+            </h4>
+            <p>
+              ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+            </p>
+          </div>
+          <div
+            class="card"
+          >
+            <img
+              alt="Web Designing"
+              src="we-designing.png"
+            />
+            <h4>
+              Web Designing
+            </h4>
+            <p>
+              ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+            </p>
+          </div>
+          <div
+            class="card"
+          >
+            <img
+              alt="Graphic Designing"
+              src="graphic-designing.png"
+            />
+            <h4>
+              Graphic Designing
+            </h4>
+            <p>
+              ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+            </p>
+          </div>
+          <div
+            class="card"
+          >
+            <img
+              alt="Digital Marketing"
+              src="digital-marketing.png"
+            />
+            <h4>
+              Digital Marketing
+            </h4>
+            <p>
+              ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, a bibendum justo tempor. Sed vel lectus
+            </p>
+          </div>
+        </div>
+        <div
+          class="btn"
+        >
+          <button>
+            Learn More
+          </button>
+        </div>
+      </div>
+    </section>
+    <section
+      class="sc-hKgKIp kbguKQ"
+    >
+      <div
+        class="image-container"
+      >
+        <span
+          class="image-text"
+        >
+          “
+        </span>
+        <img
+          alt="Testimonial Image"
+          class="hero-image"
+          src="testimonial-image.png"
+        />
+      </div>
+      <div
+        class="container"
+      >
+        <p
+          class="client-message"
+        >
+          “The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be.”
+        </p>
+        <p
+          class="about-client"
+        >
+          <span>
+            David Calathan-
+          </span>
+           Director of Design Operations, New York
+        </p>
+        <div
+          class="next-previous-icons"
+        >
+          <img
+            alt="Previous image"
+            src="previous.png"
+          />
+          <img
+            alt="Next image"
+            src="next.png"
+          />
+        </div>
+      </div>
+    </section>
+    <section
+      class="sc-eCstZk kdTtew"
+    >
+      <div
+        class="main-container"
+      >
+        <h6>
+          Our Blogs
+        </h6>
+        <div
+          class="card-container"
+        >
+          <div>
+            <img
+              alt="blog 1 image"
+              class="image-style"
+              src="blog1.png"
+            />
+            <div
+              class="card-text"
+            >
+              <p
+                style="font-size: 24px; font-weight: 500; color: rgb(15, 0, 73); margin-bottom: 20px;"
+              >
+                Realtime analytics
+              </p>
+              <p>
+                “The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be. “The results have been incredible.
+              </p>
+              <img
+                alt=" next image"
+                class="next-image-style"
+                src="next.png"
+              />
+            </div>
+          </div>
+          <div>
+            <img
+              alt="blog 1 image"
+              class="image-style"
+              src="blog2.png"
+            />
+            <div
+              class="card-text"
+            >
+              <p
+                style="font-size: 24px; font-weight: 500; color: rgb(15, 0, 73); margin-bottom: 20px;"
+              >
+                Realtime analytics
+              </p>
+              <p>
+                “The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be. “The results have been incredible.
+              </p>
+              <img
+                alt=" next image"
+                class="next-image-style"
+                src="next.png"
+              />
+            </div>
+          </div>
+          <div>
+            <img
+              alt="blog 1 image"
+              class="image-style"
+              src="blog3.png"
+            />
+            <div
+              class="card-text"
+            >
+              <p
+                style="font-size: 24px; font-weight: 500; color: rgb(15, 0, 73); margin-bottom: 20px;"
+              >
+                Realtime analytics
+              </p>
+              <p>
+                “The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be. “The results have been incredible.
+              </p>
+              <img
+                alt=" next image"
+                class="next-image-style"
+                src="next.png"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="btn"
+        >
+          <button>
+            View all posts
+          </button>
+        </div>
+      </div>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "store": Object {
+    "@@observable": [Function],
+    "dispatch": [Function],
+    "getState": [Function],
+    "replaceReducer": [Function],
+    "subscribe": [Function],
+  },
+  "unmount": [Function],
+}
+`;
